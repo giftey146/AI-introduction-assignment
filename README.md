@@ -16,7 +16,7 @@ Fallback data (works offline if API fails)
 Setup & Installation
 1. Clone the Repository
 bash
-git clone https://github.com/yourusername/cryptobuddy.git
+git clone https://github.com/giftey146/AI-introduction-assignment
 cd cryptobuddy
 2. Install Dependencies
 bash
